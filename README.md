@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on anything fun
 - 🤔 I’m looking for help with web development
 - 📫 How to reach me: hector.mattos.torres@gmail.com
-- ⚡ Fun fact: gave up on C++ in 2002
+- ⚡ Fun fact: noob since 2002
